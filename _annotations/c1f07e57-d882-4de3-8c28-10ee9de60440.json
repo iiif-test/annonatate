@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "Door", "purpose": "commenting", "created": "2021-02-24T22:46:40.396Z", "creator": {"id": "iiif-test", "name": "iiif-test"}, "modified": "2021-02-24T22:46:40.934Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/mc00336-1911Bldg-May2017", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:2592.87255859375,1768.377685546875,244.057373046875,290.791748046875"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/mc00336-1911Bldg-May2017/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/c1f07e57-d882-4de3-8c28-10ee9de60440.json"}
